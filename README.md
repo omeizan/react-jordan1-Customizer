@@ -6,10 +6,12 @@
 <p> - Bright and dark mode enabled</p>
 
 <h2>Preview</h2>
+
 ![Screenshot](/Preview/1.png?raw=true)
 ![Screenshot](/Preview/2.png?raw=true)
 ![Screenshot](/Preview/3.png?raw=true)
 ![Screenshot](/Preview/4.png?raw=true)
+
 <h2>Dependencies</h2>
 <p> - react-three</p>
 <p> - react-three-fiber</p>
